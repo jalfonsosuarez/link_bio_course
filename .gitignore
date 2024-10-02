@@ -1,8 +1,8 @@
 *.db
 *.py[cod]
+.history/
+.venv/
 .web
+.web/
 __pycache__/
 assets/external/
-.venv/
-.history/
-.web/
