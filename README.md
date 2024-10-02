@@ -11,7 +11,7 @@ He usado un Dev Container para instalar todo el entorno de desarrollo dentro de 
 - En la parte inferior izquierda, pulsa en el `><` y selecciona 'Rebuild container"
 - Cuando haya terminado de crear el contenedor y levantarlo, abajo a la izquierda pondrá `">< Dev Container: Python-Web"`.
 - Abre la terminal integrada de VS Code
-- Teclea en la terminal source `venv/bin/activate` para arrancar el entorno virtual de Python
+- Teclea en la terminal source `.venv/bin/activate` para arrancar el entorno virtual de Python
 - Seguidamente, teclea `reflex run`
 - Ejecutalo en el navegador con `localhost:3000`
 
