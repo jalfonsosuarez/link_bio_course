@@ -21,7 +21,9 @@
         "LevitatingBusinessMan.hyper-vsc",
         "ms-azuretools.vscode-docker",
         "Gruntfuggly.activitusbar",
-        "ms-python.vscode-pylance"
+        "ms-python.vscode-pylance",
+        "formulahendry.code-runner",
+        "formulahendry.terminal"
       ]
     }
   }
