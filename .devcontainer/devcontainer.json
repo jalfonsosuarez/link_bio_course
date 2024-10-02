@@ -22,10 +22,11 @@
         "ms-azuretools.vscode-docker",
         "Gruntfuggly.activitusbar",
         "ms-python.vscode-pylance",
-        "formulahendry.code-runner",
         "formulahendry.terminal",
         "frhtylcn.pythonsnippets",
-        "EricSia.pythonsnippets3"
+        "EricSia.pythonsnippets3",
+        "njqdev.vscode-python-typehint",
+        "aaron-bond.better-comments"
       ]
     }
   }
