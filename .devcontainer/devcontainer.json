@@ -23,7 +23,9 @@
         "Gruntfuggly.activitusbar",
         "ms-python.vscode-pylance",
         "formulahendry.code-runner",
-        "formulahendry.terminal"
+        "formulahendry.terminal",
+        "frhtylcn.pythonsnippets",
+        "EricSia.pythonsnippets3"
       ]
     }
   }
